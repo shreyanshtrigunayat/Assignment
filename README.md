@@ -19,8 +19,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/user-crud-api.git
-cd user-crud-api
+git clone https://github.com/shreyanshtrigunayat/Assignment.git
 ```
 
 ### 2. Install Dependencies
