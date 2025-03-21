@@ -132,6 +132,5 @@ Errors return a JSON response like:
 }
 ```
 
-## License
-This project is open-source and available under the MIT License.
+
 
